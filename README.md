@@ -1,5 +1,5 @@
 ### Olá! 😊
-Eu sou Maria Fernanda, estudante de Desenvolvimento Front-End Jr - Web/Mobile.
+Eu sou Maria Fernanda, Desenvolvedora Front-End Jr - Web/Mobile.
 
 <div>
   <a href="https://github.com/Mafehudinik">
