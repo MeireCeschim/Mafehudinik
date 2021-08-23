@@ -31,5 +31,6 @@ Eu sou Maria Fernanda, estudante de Desenvolvimento Front-End Jr - Web/Mobile.
   <a href="https://www.linkedin.com/in/maria-fernanda-hudinik-a-da-silva-0a85531b3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
   
-
+##
+  
 ![Snake animation](https://github.com/Mafehudinik/Mafehudinik/blob/output/github-contribution-grid-snake.svg)
